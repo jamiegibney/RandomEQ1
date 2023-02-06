@@ -1,4 +1,4 @@
-# RandomEQ1
+# RandomEQ
 My first audio plugin, made for a Uni project — a basic peak filter that tests your ears by encouraging you to choose what you think the parameters are.
 Currently only working on MacOS.
 
