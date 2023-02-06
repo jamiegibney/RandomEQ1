@@ -1,5 +1,5 @@
 # RandomEQ
-My first audio plugin made for a Uni project — a random peak filter that tests your listening skills by encouraging you to choose what you think the parameters are.
+My first audio plugin made for a Uni project — a random peak filter that tests your listening skills by encouraging you to guess its parameters.
 
 Currently only working on MacOS as a VST3.
 
