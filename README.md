@@ -3,7 +3,5 @@ My first audio plugin made for a Uni project — a random peak filter that tests
 
 Currently only working on MacOS.
 
-//////////
-
 The source includes some useful algorithms, such as a biquad filter (with shelf/peak implementations);
 a modified Lehmer random number generator; and some sqrt approximations.
