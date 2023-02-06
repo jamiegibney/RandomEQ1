@@ -6,6 +6,10 @@
 #pragma once
 #include "Filter.h"
 
+using u_int8_t = unsigned char;
+using u_int32_t = unsigned int;
+using u_int64_t = unsigned long long;
+
 class RandomParameters {
  private:
     u_int32_t mLehmerSeed {};

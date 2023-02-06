@@ -7,15 +7,15 @@ project(RandomEQ VERSION 0.0.1)
 #            FIND JUCE           #
 
 # (usually best to include this within the source folder, if using)
-add_subdirectory(<juce_path> [binary])
+add_subdirectory(/Users/jamiegibney/JUCE/ [binary])
 
 # Optionally, use FetchContent to get JUCE from GitHub:
-# include(FetchContent)
-# FetchContent_Declare(
+#include(FetchContent)
+#FetchContent_Declare(
 #        JUCE
 #        GIT_REPOSITORY https://github.com/juce-framework/JUCE/
 #        GIT_TAG 7.0.5)
-# FetchContent_MakeAvailable(JUCE)
+#FetchContent_MakeAvailable(JUCE)
 
                 #
 
